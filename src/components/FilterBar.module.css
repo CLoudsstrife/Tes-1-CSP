@@ -1,0 +1,6 @@
+.bar { display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; }
+.cari { display: flex; gap: 8px; }
+.input { flex: 1; padding: 8px 12px; border: 1px solid var(--garis); border-radius: 8px; }
+.kategori { display: flex; flex-wrap: wrap; gap: 8px; }
+.kategori button { text-transform: capitalize; }
+.aktif { background: var(--aksen) !important; color: #fff !important; border-color: var(--aksen) !important; }

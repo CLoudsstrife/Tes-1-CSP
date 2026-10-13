@@ -1,0 +1,5 @@
+.form { display: flex; flex-direction: column; gap: 10px; }
+.field { display: flex; flex-direction: column; gap: 4px; }
+.field label { font-size: 13px; font-weight: 600; color: var(--ink); }
+.field input, .field select { padding: 7px 10px; border: 1px solid var(--garis); border-radius: 8px; }
+.error { color: var(--bahaya); }

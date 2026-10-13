@@ -1,0 +1,2 @@
+.panel { background: var(--kartu); border: 1px solid var(--garis); border-radius: 12px; padding: 16px; }
+.judul { font-size: 18px; margin-bottom: 12px; }

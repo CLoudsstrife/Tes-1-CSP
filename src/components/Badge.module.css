@@ -1,0 +1,4 @@
+.badge { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12px; font-weight: 600; }
+.netral { background: var(--aksen-lembut); color: var(--aksen); }
+.bahaya { background: var(--bahaya-bg); color: var(--bahaya); }
+.sukses { background: var(--sukses-bg); color: var(--sukses); }

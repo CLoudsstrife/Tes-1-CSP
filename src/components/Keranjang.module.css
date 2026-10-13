@@ -1,0 +1,8 @@
+.kosong { margin: 0; color: var(--muted); }
+.daftar { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.baris { display: grid; grid-template-columns: 1fr auto auto; gap: 8px; align-items: center; padding-bottom: 10px; border-bottom: 1px solid var(--garis); }
+.info { display: flex; flex-direction: column; font-size: 14px; }
+.qty { display: flex; align-items: center; gap: 8px; }
+.konfirmasi { display: flex; gap: 4px; }
+.bahaya { background: var(--bahaya) !important; color: #fff !important; border-color: var(--bahaya) !important; }
+.ringkasan { display: flex; justify-content: space-between; margin-top: 12px; font-size: 16px; color: var(--ink); }

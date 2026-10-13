@@ -1,0 +1,2 @@
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 12px; }
+.kosong { padding: 24px; text-align: center; background: var(--kartu); border: 1px dashed var(--garis); border-radius: 12px; }

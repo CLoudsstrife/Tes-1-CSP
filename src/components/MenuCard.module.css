@@ -1,0 +1,7 @@
+.kartu { background: var(--kartu); border: 1px solid var(--garis); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 6px; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+.kartu:hover { box-shadow: 0 6px 16px rgba(22, 35, 58, 0.1); transform: translateY(-2px); }
+.habis { opacity: 0.6; background: #f8fafc; }
+.atas { display: flex; justify-content: space-between; align-items: start; gap: 8px; }
+.atas h3 { font-size: 16px; }
+.harga { margin: 0; font-weight: 700; color: var(--ink); }
+.stok { margin: 0; font-size: 13px; color: var(--muted); }
